@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:10:1-46:12
+	package
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:11:5-32
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:16:22-77
+application
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:18:5-44:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:24:9-26:52
+	android:value
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:25:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:27:9-29:56
+	android:value
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:28:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:32:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:37:27-74
+activity#com.parse.starter.UserList
+ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:42:13-61
+	android:name
+		ADDED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml:41:13-37
+uses-sdk
+INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/src/main/AndroidManifest.xml
