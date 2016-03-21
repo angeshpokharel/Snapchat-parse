@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-357b790f3d26ed2cccd51f11a55ba421edca04f4.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-bdc4684a3b07ef8353f8249fa18e84e831891b97.jar" />
+    </item>
+    <item
+        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d4370917688e98d570f9c4e6647cdc2b49c9e78b.jar" />
+    </item>
+    <item
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-fa0831e5b343eb15ad3cda83d7622d1c889efe73.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-b40d6c68ca6092447cfd49a88bfdaeb98bd23f34.jar" />
+    </item>
+    <item
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.2/2eaa8b8ca97c915eab3883bab40e15611e5e0393/parse-android-1.10.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2eaa8b8ca97c915eab3883bab40e15611e5e0393">
+        <dex dex="/Volumes/Untitled/Android/Apps/Snapchat/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.10.2-895f248864a6d40e54f278f36ea79dff20520521.jar" />
+    </item>
+
+</items>
